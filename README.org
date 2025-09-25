@@ -4,6 +4,7 @@ Parse a floating point value from a string in Common Lisp.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/soemraws/parse-float.git |
-| commit  | 3074765                                                |
+| commit  | 622e582                                         |
 | systems | parse-float                                     |
 |---------+-------------------------------------------------|
+-----|
